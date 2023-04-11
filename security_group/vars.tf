@@ -10,5 +10,4 @@
   cidr = list(string)
   }))
   default = []
-    default = "dev"
  }
