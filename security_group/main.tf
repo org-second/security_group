@@ -12,5 +12,6 @@
  protocol = "${ingress.value.protocol}"
  cidr_blocks = "${ingress.value.cidr}"
  
+   }
   }
- }
+ } 
